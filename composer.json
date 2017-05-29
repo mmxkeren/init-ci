@@ -12,7 +12,10 @@
 	},
 	"require": {
 		"php": ">=5.2.4",
-		"twbs/bootstrap": "^3.3"
+		"twbs/bootstrap": "^3.3",
+		"components/jquery": "^3.2",
+		"datatables/datatables": "^1.10",
+		"eternicode/bootstrap-datepicker": "^1.6"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
