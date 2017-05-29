@@ -62,7 +62,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	        </form>
 		</div>
 		<div class="templatemo-content-widget templatemo-login-widget templatemo-register-widget white-bg">
-			<p>Not a registered user yet? <strong><a href="register.php" class="blue-text">Sign up now!</a></strong></p>
+			<p>Not a registered user yet? <strong><a href="login/register" class="blue-text">Sign up now!</a></strong></p>
 		</div>
 		<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
 	</body>
